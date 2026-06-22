@@ -1,9 +1,18 @@
 [
   {
-  "lat": 55.7539,
-  "lon": 37.6208,
-  "title": "ДТП на Садовом кольце",
-  "description": "...",
-  "source": "https://www.python.org/downloads/windows/"
-}
+    "lat": 55.7539,
+    "lon": 37.6208,
+    "title": "ДТП на Садовом кольце",
+    "radius": 100,
+    "description": "На пересечении улиц произошла авария.",
+    "source": "https://www.google.com/"
+  },
+  {
+    "lat": 55.7617,
+    "lon": 37.6156,
+    "title": "Заторы на Тверской",
+    "radius": 200,
+    "description": "Интенсивное движение в часы пик.",
+    "source": "https://www.google.com/"
+  }
 ]
