@@ -5,7 +5,8 @@
     "title": "🔥 Рок-КОНЦЕРТНИК на пристани",
     "radius": 250,
     "description": "4 июля 2026 года в 16:00 на городской пристани выступят 8 команд! БАЙКЕРСКИЕ клубы добавят драйва. ШАШЛЫК, НАПИТКИ и ВСЁ ДРУГОЕ. Часть площадки перекрыта с 2 июля. ПОСЛЕ НЕГО БУДЕТ КОНЦЕРТ В ТОГУРЕ",
-    "source": "https://ok.ru/mbutskd/topic/158864096622838"
+    "source": "https://ok.ru/mbutskd/topic/158864096622838",
+    "imageUrl": "https://www.kulturakolp.ru/wp-content/uploads/2025/07/02-9QXkFJPEo1ZxYzD16z_WxokGSjtsZrBX56h8FHpSvf722easBwqDh2UkwI45l40FKcN0F7C_3fZAb.jpg"
   },
   {
     "lat": 58.3183,
@@ -13,7 +14,8 @@
     "title": "🎬 Астрал. Проклятие экзорциста в «Киномании»",
     "radius": 50,
     "description": "С 27 по 29 июня 2026 года в кинотеатре «Киномания» (ТЦ «Омега», пер. Сергея Лазо, 10/1) — показ ЖУТКОГО ХОРРОРА. Билеты купить онлайн. 18++++!!!",
-    "source": "https://afisha7.ru/kolpashevo"
+    "source": "https://afisha7.ru/kolpashevo",
+    "imageUrl": "https://www.film.ru/sites/default/files/styles/thumb_1024x450/public/trailers_frame/543_1.jpg"
   },
   {
     "lat": 58.360556,
@@ -21,6 +23,7 @@
     "title": "C днём рождения, Тогур!",
     "radius": 50,
     "description": "Снова еда и напитки, а также концерт возле клуба. Будет 5 июля.",
-    "source": "https://ok.ru/groupkolpadm/topic/157463062388763"
+    "source": "https://ok.ru/groupkolpadm/topic/157463062388763",
+    "imageUrl": "https://www.kulturakolp.ru/wp-content/uploads/2018/07/1.jpg"
   }
 ]
